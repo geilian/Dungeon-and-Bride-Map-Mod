@@ -18,8 +18,6 @@ Update plan:
 1. Show detail dungeon maps when clicking location.
 2. Quest guidance tag.
 3. Optimize map and icon details.
-====================================
-
 
 ver0.802
 - Compatible with the Japanese version. If there is no other localization, Japanese will be displayed by default
@@ -27,6 +25,7 @@ ver0.802
 
 ver0.803
 - Fixed the problem of the charactor icon not moving outside the town
+
 
 稳定版目前的功能：
 1. 可在城镇内打开大地图，或在野外通过迷宫地图打开大地图
