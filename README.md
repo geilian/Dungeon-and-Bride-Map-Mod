@@ -12,7 +12,7 @@ Features：
 
 Currently known bugs:
 1. Bug of no animation for character icon when opening a large map in the wilderness (fixed)
-2. At present, the dungeons will be displayed according to the exploration progress, but the towns can only be displayed in advance for the time being.
+2. At present, the dungeons will be displayed according to the exploration progress, but the towns can only be displayed in advance for the time being.(fixed)
 
 Update plan:
 1. Show detail dungeon maps when clicking location.
