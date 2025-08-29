@@ -8,7 +8,8 @@ Features：
 1. You can now open Map in town to open the world map.
 2. Character icon will show where you are now.
 3. Hover on the location will display the map completion of each area total.
-4. No cheating content.
+4. Modified very few files, almost compatible with any version.
+5. No cheating content.
 
 Currently known bugs:
 1. Bug of no animation for character icon when opening a large map in the wilderness (fixed)
