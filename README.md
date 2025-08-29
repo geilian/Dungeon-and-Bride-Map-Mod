@@ -17,7 +17,7 @@ Currently known bugs:
 
 Update plan:
 1. Show detail dungeon maps when clicking location.
-2. Quest guidance tag.
+2. Quest guidance.
 3. Optimize map and icon details.
 
 ver0.802
