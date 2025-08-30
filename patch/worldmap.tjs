@@ -303,7 +303,7 @@ class WorldMap extends Layer
 				.visible = false;
             }
 
-            //  用来判断村庄是否显示，目前采用地图探索位置来判断，width从0开始算，要多加1
+            //  判断村庄是否显示，地图位置x+y*width，width从0开始算，要多加1
             if (row.name == "ブレイブタウン") iconImgLayer.visible = true;  //  勇者村
             if (row.name == "シーガルの村") //  海鸥村
             {   
