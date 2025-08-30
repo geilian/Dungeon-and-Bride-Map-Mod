@@ -302,7 +302,29 @@ class WorldMap extends Layer
                 .absolute = 2008;  // 确保图标显示在地图上方
 				.visible = false;
             }
-            if (row.oneofMap == "town") iconImgLayer.visible = true;
+
+            //  用来判断村庄是否显示，目前采用地图探索位置来判断，width从0开始算，要多加1
+            if (row.name == "ブレイブタウン") iconImgLayer.visible = true;  //  勇者村
+            if (row.name == "シーガルの村") //  海鸥村
+            {   
+                if (o.コリンズの森.record[78+40*2]) iconImgLayer.visible = true;
+            }
+            if (row.name == "サファイアシティ") //  蓝宝石城
+            {   
+                if (o.ランドン渓谷・崖上.record[78+31*24]) iconImgLayer.visible = true;
+            }
+            if (row.name == "ノースロップ村") //  霜陲村
+            {   
+                if (o.フーラ雪原・南の森.record[38+22*3]) iconImgLayer.visible = true;
+            }
+            if (row.name == "地下の町ライムストーン") //  地下町
+            {   
+                if (o.大洞窟Ｂ５.record[4+9*5]) iconImgLayer.visible = true;
+            }
+            if (row.name == "ダストウェルの町") //  尘落镇
+            {   
+                if (o.タルハ砂漠・南.record[1+18*1]) iconImgLayer.visible = true;
+            }
 
             // 【新增1：初始化blocks属性（默认0），关联CSV的oneofMap用于后续统计】
             iconImgLayer.blocks = 0;  // 初始值0，后续会被summarizeOpenedBlocks覆盖
