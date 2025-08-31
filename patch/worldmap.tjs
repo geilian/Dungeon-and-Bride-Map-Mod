@@ -33,15 +33,15 @@ global.openWorldMap = function ()
 
         bigMapBtn.onMouseEnter = function () {
             // 可选：添加悬停效果（如缩放/高亮）
-            this.scaleX = 1.1;
-            this.scaleY = 1.1;
+            // this.scaleX = 1.1;
+            // this.scaleY = 1.1;
             playSound("point", 2); // 可选：播放悬停音效
         };
-        bigMapBtn.onMouseLeave = function () {
-            // 恢复正常状态
-            this.scaleX = 1;
-            this.scaleY = 1;
-        };
+        // bigMapBtn.onMouseLeave = function () {
+        //     // 恢复正常状态
+        //     // this.scaleX = 1;
+        //     // this.scaleY = 1;
+        // };
         bigMapBtn.onMouseUp = function (x, y, button) {
             if (button == mbLeft) { // 左键点击
                 global.bigMap.open(); // 打开大地图
