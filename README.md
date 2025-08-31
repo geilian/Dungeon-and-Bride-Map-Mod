@@ -30,6 +30,9 @@ ver0.803
 ver0.805
 - Unexplored towns will no longer displayed
 
+ver0.806
+- Convert to UTF-16LE to be compatible with game.exe startup
+
 
 稳定版目前的功能：
 1. 可在城镇内打开大地图，或在野外通过迷宫地图打开大地图
@@ -48,6 +51,9 @@ ver0.803
 
 ver0.805
 - 修复了城镇不按探索进度显示的问题
+
+ver0.806
+- 忘记转UTF-16了，现在兼容game.exe了
 
 可兼容日版及贴吧中文汉化
 本mod全凭热爱，仅供学习交流使用，如有转发请注明出处，禁止任何形式的牟利。
