@@ -18,7 +18,7 @@ Currently known bugs:
 3. At present, the dungeons will be displayed according to the exploration progress, but the towns can only be displayed in advance for the time being.(fixed)
 
 Update plan:
-1. Show detail dungeon maps when clicking location(half done).
+1. Show detail dungeon maps when clicking location outside Town. There may cause bugs when switching dungeon maps outside towns.
 2. Quest guidance.
 3. Optimize map and icon details.
 
