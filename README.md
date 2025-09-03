@@ -11,15 +11,6 @@ Features：
 4. Modified very few files, almost compatible with any version.
 5. No cheating content.
 
-Currently known bugs:
-1. The map icon should not appear in the upper right corner of the dungeon map when in town.
-2. Bug of no animation for character icon when opening a large map in the wilderness (fixed)
-3. At present, the dungeons will be displayed according to the exploration progress, but the towns can only be displayed in advance for the time being.(fixed)
-
-Update plan:
-1. Quest guidance.
-2. Optimize map and icon details.
-
 ver1.001
 - Now you can view dungen map outside towns.
 - To avoid covering up the text, a new map icon pic has been replaced.
@@ -40,7 +31,14 @@ ver0.802
 - Compatible with the Japanese version. If there is no other localization, Japanese will be displayed by default
 - Adjusted the location of Village and refined some map displays
 
+Currently known bugs:
+1. The map icon should not appear in the upper right corner of the dungeon map when in town.
+2. Bug of no animation for character icon when opening a large map in the wilderness (fixed)
+3. At present, the dungeons will be displayed according to the exploration progress, but the towns can only be displayed in advance for the time being.(fixed)
 
+Update plan:
+1. Quest guidance.
+2. Optimize map and icon details.
 ================================================================================
 
 稳定版目前的功能：
