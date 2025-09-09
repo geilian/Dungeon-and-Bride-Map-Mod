@@ -11,6 +11,10 @@ Features：
 4. Modified very few files, almost compatible with any version.
 5. No cheating content.
 
+ver1.002
+- Compatible with patch 1.35.
+- Worldmap.tjs has been migrated to the component.tjs. No additional file loaded now.
+- 
 ver1.001
 - Now you can view dungen map outside towns.
 - To avoid covering up the text, a new map icon pic has been replaced.
