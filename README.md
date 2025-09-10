@@ -11,6 +11,11 @@ Features：
 4. Modified very few files, almost compatible with any version.
 5. No cheating content.
 
+ver1.006
+- Fixed the map completion percentage would not update in real-time.
+- Unexplored Floors are now included in the completion calculation.
+- Compatible with English translation patch.
+
 ver1.002
 - Compatible with patch 1.35.
 - Worldmap.tjs has been migrated to the component.tjs. No additional file loaded now.
@@ -52,6 +57,18 @@ Update plan:
 4. 几乎可以兼容任何版本
 5. 不包含任何作弊和修改的功能
 
+ver1.006
+- 修复了地图完成度不会实时更新的问题
+- 现在完全没有探索过的楼层也被计算在完成度内了
+- 兼容了英语翻译补丁
+
+ver1.003
+- 兼容了tt君的汉化
+
+ver1.002
+- 兼容了1.35补丁
+- 将worldmap整体融入component里，兼容性更强了
+
 ver1.001
 - 地图功能已开发完成，支持打开大地图，并且可点击打开详细地图查看
 - 更换了新的地图图标
@@ -78,4 +95,3 @@ ver0.802
 可兼容日版及贴吧中文汉化
 本mod全凭热爱，仅供学习交流使用，如有转发请注明出处，禁止任何形式的牟利。
 老登制作不易，请支持正版。
- 
