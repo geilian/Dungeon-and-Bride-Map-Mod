@@ -9,7 +9,7 @@ Features：
 2. Character icon will show where you are now.
 3. Hover on the location will display the map completion of each area total.
 4. Modified very few files, almost compatible with any version.
-5. No cheating content.
+5. Now have cheating teleport function.
 
 ver1.101
 - Now you can teleport to dungeon by BigMap(hold Shift + Click location icon)
@@ -61,7 +61,7 @@ Update plan:
 2. 指向具体地点时会显示地图达成率
 3. 野外迷宫会根据探索进度逐步显示，城镇暂时只能全部显示
 4. 几乎可以兼容任何版本
-5. 不包含任何作弊和修改的功能
+5. 现在有了作弊传送功能
 
 ver1.101
 - 现在可以用大地图快速传送了（按住shift点击地点图标）
