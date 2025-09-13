@@ -11,6 +11,12 @@ Features：
 4. Modified very few files, almost compatible with any version.
 5. No cheating content.
 
+ver1.101
+- Now you can teleport to dungeon by BigMap(hold Shift + Click location icon)
+- Teleport is enabled by default in New Game+.
+- You'll need to touch the 'Blue' one on big map to enable Teleport in the first playthrough.
+- Warning! Uncontrolled teleport will surely cause quest bugs or save crash.
+
 ver1.006
 - Fixed the map completion percentage would not update in real-time.
 - Unexplored Floors are now included in the completion calculation.
@@ -56,6 +62,11 @@ Update plan:
 3. 野外迷宫会根据探索进度逐步显示，城镇暂时只能全部显示
 4. 几乎可以兼容任何版本
 5. 不包含任何作弊和修改的功能
+
+ver1.101
+- 现在可以用大地图快速传送了（按住shift点击地点图标）
+- 二周目默认开启传送功能，一周目还得“摸索”一下
+- 注意！随意传送势必造成剧情遗漏或不可逆的Bug
 
 ver1.006
 - 修复了地图完成度不会实时更新的问题
