@@ -11,6 +11,10 @@ Features：
 4. Modified very few files, almost compatible with any version.
 5. Now have cheating teleport function.
 
+ver1.103
+- Fixed a bug that caused crash when clicking on the map in New Game +
+- Teleport is now enabled by default. Simply hold down Shift and click on the location icon.
+
 ver1.101
 - Now you can teleport to dungeon by BigMap(hold Shift + Click location icon)
 - Teleport is enabled by default in New Game+.
@@ -62,6 +66,11 @@ Update plan:
 3. 野外迷宫会根据探索进度逐步显示，城镇暂时只能全部显示
 4. 几乎可以兼容任何版本
 5. 现在有了作弊传送功能
+
+
+ver1.103
+- 修复了开启二周目时，点击地图出现错误的bug
+- 现在传送默认开启，只要按住shift点击地点图标就可以了
 
 ver1.101
 - 现在可以用大地图快速传送了（按住shift点击地点图标）
