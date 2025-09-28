@@ -1,5 +1,4 @@
 大地图mod for 地下城与新娘
-
 BigMap Mod for Dungeon and Bride
 
 Translated by GPT
@@ -10,6 +9,9 @@ Features：
 3. Hover on the location will display the map completion of each area total.
 4. Modified very few files, almost compatible with any version.
 5. Now have cheating teleport function.
+
+ver1.104
+- Compatible with version v1.41.
 
 ver1.103
 - Fixed a bug that caused crash when clicking on the map in New Game +
@@ -67,6 +69,8 @@ Update plan:
 4. 几乎可以兼容任何版本
 5. 现在有了作弊传送功能
 
+ver1.104
+- 兼容了1.41版本
 
 ver1.103
 - 修复了开启二周目时，点击地图出现错误的bug
